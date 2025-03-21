@@ -43,3 +43,7 @@ switch (operador) {
   frmCalculadora.inResultado.value = resultado
 };
 
+
+
+
+
